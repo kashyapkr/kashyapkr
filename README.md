@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Kashyap Krishna</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-- 💻 My Current Skills includes and not limited to **Spring Boot,React,Spring Security,Java,MySQL,SCSS**
+- 💻 My Current Skills includes and is not limited to **Spring Boot,React,Spring Security,Java,MySQL,SCSS**
 
 - 👨‍💻Check out my portfolio [https://kashyapkr.netlify.app/](https://kashyapkr.netlify.app/)
 
