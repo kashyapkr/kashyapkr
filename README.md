@@ -5,7 +5,7 @@
 
 - 👨‍💻Check out my portfolio [https://kashyapkr.netlify.app/](https://kashyapkr.netlify.app/)
 
-- 💬 Ask me about **Spring Boot,Java**
+- 💬 Ask me about **Spring Boot,Java,React**
 
 - 📫 Reach me at **kashyapkr4147@gmail.com**
 
